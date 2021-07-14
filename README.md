@@ -4,7 +4,7 @@ I'm Eliseo, a CS student in Italy.
 Join my journey through networks and computers.
 
 <img src="https://github-readme-stats.vercel.app/api?username=eliseomartelli&show_icons=true&count_private=true" alt="eliseomartelli" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliseomartelli&hide=html" alt="eliseomartelli" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliseomartelli&hide=html&layout=compact" alt="eliseomartelli" />
 
 <!--
 **eliseomartelli/eliseomartelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
